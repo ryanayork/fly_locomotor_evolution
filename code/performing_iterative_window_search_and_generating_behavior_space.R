@@ -21,7 +21,7 @@ names(dros_cols) = c("mauritiana", "santomea", "yakuba", "melanogaster",
 #####Load data#####
 ###################
 #Load data
-vel = readRDS('dros_locomotor_evolution_all_velocity_smoothed_xy_092520.RDS')
+vel = readRDS('dros_locomotor_evolution_all_velocity_smoothed_xy.RDS')
 
 #Find which trials are longer than 1000 frames
 vel = vel[which(unlist(lapply(vel, function(x) nrow(x)))>5000)]
