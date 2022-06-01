@@ -3,7 +3,7 @@ This code accompanies the paper 'The evolution trajectory of drosophilid walking
 
 Raw kinematic parameter+position data and a pre-computed behavior space layout can be downloaded from Dryad (https://doi.org/10.5061/dryad.z8w9ghxfc). 
 
-![alt text](https://github.com/ryanayork/fly_locomotor_evolution/blob/main/etc/banner.png)
+![alt text](https://github.com/ryanayork/fly_locomotor_evolution/blob/main/03_etc/banner.png)
 
 Paper abstract:
 
